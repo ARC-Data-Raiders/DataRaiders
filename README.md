@@ -8,8 +8,6 @@ The goal is to have easy accessible assets for anyone to use.
 
 This will not hold unreleased assets, for obvious reasons.
 
-# Alright -- Im a lot more busy nowadays so i can't really work on this project, so i'm going to show my methods. note you can get banned (i havent after many months of doing it, so use at your own risk. tbh at worst you'll get a temp ban - it will probably get patched soon now that they're doing more on the anticheat side). 
-
 **step 1, get NinjaRipper! I use version 2.12 you can pay 5$ for on their patreon.**
 
 **step 2, fully close steam (right click in tray - press exit).**
