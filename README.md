@@ -1,6 +1,8 @@
 ### [ This is no longer maintained by me ]
  - see contributors
 
+for all future efforts forked from this please credit me somewhere!
+
 This repository serves as a collection of assets from inside the game ARC Raiders.
 
 The .blend files have packed textures and are for versions 5.0 and above, There may be issues opening them on lower versions.
