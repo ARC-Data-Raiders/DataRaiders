@@ -1,14 +1,13 @@
-This repository serves as a collection of assets from inside the game ARC Raiders.
+(Probably) All the visual assets in the game
+
 
 The .blend files have packed textures and are for versions 5.0 and above, There may be issues opening them on lower versions.
-
-I'm adding more soon! feel free to make suggestions via an 'Issue' on the repo
 
 The goal is to have easy accessible assets for anyone to use.
 
 This will not hold unreleased assets, for obvious reasons.
 
-# Alright -- Im a lot more busy nowadays so i can't really work on this project, so i'm going to show my methods. note you can get banned (i havent after many months of doing it, so use at your own risk. tbh at worst you'll get a temp ban - it will probably get patched soon now that they're doing more on the anticheat side). 
+# NinjaRipper Method
 
 **step 1, get NinjaRipper! I use version 2.12 you can pay 5$ for on their patreon.**
 
@@ -29,7 +28,6 @@ This will not hold unreleased assets, for obvious reasons.
 **enjoy, and always feel free to make a pull request with any additions. i will be active enough to look over and merge them :D**
 
 hopefully some day someone cracks the AES encryption and all this asset extraction comes with no risk and much easier/better, but until then this is the best way :P
-
 
 currently  no 3d models will be rigged, i'm working on this though :)
 
