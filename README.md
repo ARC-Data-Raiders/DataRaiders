@@ -3,7 +3,7 @@
 	- Silarious
 	- Teralix
 	
-Objects folder is all Astroval's work, for all future efforts forked those assets please credit Astroval.
+Objects folder is all Astroval's work, for all uses of those assets please credit Astroval.
 
 The .blend files have packed textures and are for versions 5.0 and above, There may be issues opening them on lower versions.
 
