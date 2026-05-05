@@ -1,3 +1,6 @@
+### [ This is no longer maintained by me ]
+ - see contributors
+
 This repository serves as a collection of assets from inside the game ARC Raiders.
 
 The .blend files have packed textures and are for versions 5.0 and above, There may be issues opening them on lower versions.
@@ -28,9 +31,6 @@ This will not hold unreleased assets, for obvious reasons.
 
 hopefully some day someone cracks the AES encryption and all this asset extraction comes with no risk and much easier/better, but until then this is the best way :P
 
-
-currently  no 3d models will be rigged, i'm working on this though :)
-
 ![Arc Raiders Queen](queen.png)
 
-Little side note about the queen model: I was lazy on retexturing and skipped the main shaders, just going straight for a basic diffuse and normal, so it will look different to in game, i may improve on this later.
+
