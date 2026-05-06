@@ -1,0 +1,27 @@
+{
+  "Textures": {
+    "T_FrontEndMap_01_C": "/Game/Pioneer/Environment/Props/FrontEnd/FrontEndMap_01/T_FrontEndMap_01_C.T_FrontEndMap_01_C",
+    "T_FrontEndMap_01_N": "/Game/Pioneer/Environment/Props/FrontEnd/FrontEndMap_01/T_FrontEndMap_01_N.T_FrontEndMap_01_N",
+    "T_North_Base_Dirt_01_N": "/Game/Pioneer/Environment/North/Base/Textures/Landscape/T_North_Base_Dirt_01_N.T_North_Base_Dirt_01_N",
+    "PM_Normals": "/Game/Pioneer/Environment/North/Base/Textures/Landscape/T_North_Base_Dirt_01_N.T_North_Base_Dirt_01_N",
+    "PM_Diffuse": "/Game/Pioneer/Environment/Props/FrontEnd/FrontEndMap_01/T_FrontEndMap_01_C.T_FrontEndMap_01_C"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {},
+    "Scalars": {},
+    "Switches": {},
+    "Properties": {
+      "bCanMaskedBeAssumedOpaque": true,
+      "StateId": "CD80D18C-4F6028F0-778CAF83-43BC54F3",
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": false,
+    "HasTopNormals": false,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}

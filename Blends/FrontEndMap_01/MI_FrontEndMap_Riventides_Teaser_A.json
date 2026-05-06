@@ -1,0 +1,55 @@
+{
+  "Textures": {
+    "CR": "/Game/Pioneer/Environment/Props/FrontEnd/FrontEndMap_01/T_FrontEndMap_Riventides_Teaser_A_CR.T_FrontEndMap_Riventides_Teaser_A_CR",
+    "T_FrontEndMap_Riventides_Teaser_A_CR": "/Game/Pioneer/Environment/Props/FrontEnd/FrontEndMap_01/T_FrontEndMap_Riventides_Teaser_A_CR.T_FrontEndMap_Riventides_Teaser_A_CR",
+    "PM_Normals": "/Game/Pioneer/Environment/Props/FrontEnd/FrontEndMap_01/T_FrontEndMap_Riventides_Teaser_A_NOX.T_FrontEndMap_Riventides_Teaser_A_NOX",
+    "Normal": "/Game/Pioneer/Environment/Props/FrontEnd/FrontEndMap_01/T_FrontEndMap_Riventides_Teaser_A_NOX.T_FrontEndMap_Riventides_Teaser_A_NOX",
+    "Packed Mask": "/Game/Pioneer/Environment/Props/FrontEnd/FrontEndMap_01/T_FrontEndMap_Riventides_Teaser_A_XEM.T_FrontEndMap_Riventides_Teaser_A_XEM",
+    "T_FrontEndMap_Riventides_Teaser_A_XEM": "/Game/Pioneer/Environment/Props/FrontEnd/FrontEndMap_01/T_FrontEndMap_Riventides_Teaser_A_XEM.T_FrontEndMap_Riventides_Teaser_A_XEM",
+    "Mask": "/Game/Pioneer/Environment/Props/Research/Lockers_02/T_Rsr_Lockers_02_A_M.T_Rsr_Lockers_02_A_M",
+    "T_Rsr_Lockers_02_A_M": "/Game/Pioneer/Environment/Props/Research/Lockers_02/T_Rsr_Lockers_02_A_M.T_Rsr_Lockers_02_A_M"
+  },
+  "Parameters": {
+    "BlendMode": 0,
+    "ShadingModel": 0,
+    "Colors": {
+      "EmissiveColor": {
+        "R": 1.0,
+        "G": 0.746388,
+        "B": 0.403646,
+        "A": 1.0,
+        "Hex": "FFE1AA"
+      }
+    },
+    "Scalars": {
+      "Detail Color Intensity": 0.2,
+      "Detail Normal Intensity": 0.2,
+      "EmissiveIntensity": 5.0,
+      "RefractionDepthBias": 0.0
+    },
+    "Switches": {
+      "Use Masks": true,
+      "Use Detail": true,
+      "Use Dust": false,
+      "Use Emissive": false,
+      "Pulsate": true
+    },
+    "Properties": {
+      "PhysMaterial": {
+        "ObjectName": "PhysicalMaterial'PM_Metal'",
+        "ObjectPath": "/Game/Pioneer/Core/PhysicalMaterials/PM_Metal.0"
+      },
+      "bHasStaticPermutationResource": true,
+      "BasePropertyOverrides": {
+        "OpacityMaskClipValue": 0.3333
+      },
+      "bIncludedInBaseGame": true
+    },
+    "HasTopDiffuse": true,
+    "HasTopNormals": true,
+    "HasTopSpecularMasks": false,
+    "HasTopEmissive": false,
+    "IsTranslucent": false,
+    "IsNull": false
+  }
+}
