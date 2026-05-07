@@ -1,6 +1,6 @@
 ### [ This is no longer maintained by Astroval ]
  - Main contributors
-	- Silarious
+	- [Silarious](https://watch.silarious.online)
 	- Teralix
 	
 Objects folder is all Astroval's work, for all uses of those assets please credit Astroval.
