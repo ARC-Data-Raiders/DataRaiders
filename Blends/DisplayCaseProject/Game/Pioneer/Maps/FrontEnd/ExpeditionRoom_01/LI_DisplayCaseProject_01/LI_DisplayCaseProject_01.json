@@ -1,0 +1,627 @@
+{
+  "type": "ProcessedWorld",
+  "exportName": "LI_DisplayCaseProject_01",
+  "name": "LI_DisplayCaseProject_01",
+  "packagePath": "/Game/Pioneer/Maps/FrontEnd/ExpeditionRoom_01/LI_DisplayCaseProject_01",
+  "persistantLevel": {
+    "actors": [
+      {
+        "name": "StaticMeshActor_UAID_ECE7A7073B7968AC02_1990262439",
+        "components": [
+          {
+            "meshPath": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/SM_DisplayTable_TickPart_01_A",
+            "materials": [
+              {
+                "type": "ProcessedMaterial",
+                "exportName": "MI_DisplayTable_TickPart_01",
+                "name": "MI_DisplayTable_TickPart_01",
+                "matPath": "/Game/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/MI_DisplayTable_TickPart_01",
+                "textureParameters": {
+                  "CR": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTable_TickPart_01_A_CR",
+                  "Normal": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTable_TickPart_01_A_NOX",
+                  "Packed Mask": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTable_TickPart_01_A_XAM"
+                },
+                "scalarParameters": {
+                  "RefractionDepthBias": 0.0,
+                  "Use Masks": 1.0,
+                  "Use Slice Mask": 1.0,
+                  "Use Detail": 0.0,
+                  "Use Dust": 0.0
+                },
+                "vectorParameters": {},
+                "autoMappedParameters": [
+                  {
+                    "parameter": {
+                      "name": "Normal",
+                      "uVIndex": 0,
+                      "textureChannel": 4,
+                      "layerIndex": 0
+                    },
+                    "valueType": "Texture",
+                    "value": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTable_TickPart_01_A_NOX"
+                  }
+                ],
+                "parentStack": [
+                  "/Game/Pioneer/MaterialLibrary/M_Presets/M_PropPreset_CR+NOX+XEM.M_PropPreset_CR+NOX+XEM"
+                ]
+              }
+            ],
+            "instanceTransforms": null,
+            "overrideVertexColors": null,
+            "staticMeshForViewer": null,
+            "guid": "457dee8b-a4a7-4d58-a21f-fb5fd7488a88",
+            "name": "StaticMeshComponent0",
+            "transform": {
+              "quaternion": {
+                "x": 8.100012E-31,
+                "y": -6.3351895E-31,
+                "z": 0.9558185,
+                "w": -0.29395765,
+                "isNormalized": true,
+                "size": 1.0,
+                "sizeSquared": 1.0
+              },
+              "translation": {
+                "x": -20.605005,
+                "y": -53.292747,
+                "z": -7.40549
+              },
+              "scale3D": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "rotation": {
+                "pitch": 6.737827E-29,
+                "yaw": -145.8099,
+                "roll": 9.667347E-29
+              }
+            },
+            "children": [],
+            "type": "MeshComponent"
+          }
+        ]
+      },
+      {
+        "name": "StaticMeshActor_UAID_ECE7A7073B790DAD02_1976569535",
+        "components": [
+          {
+            "meshPath": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/SM_DisplayTable_MatriarchPart_01_A",
+            "materials": [
+              {
+                "type": "ProcessedMaterial",
+                "exportName": "MI_DisplayTable_MatriarchPart_01",
+                "name": "MI_DisplayTable_MatriarchPart_01",
+                "matPath": "/Game/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/MI_DisplayTable_MatriarchPart_01",
+                "textureParameters": {
+                  "CR": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTable_MatriarchPart_01_A_CR",
+                  "Normal": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTable_MatriarchPart_01_A_NEM",
+                  "Mask": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTable_MatriarchPart_01_A_A"
+                },
+                "scalarParameters": {
+                  "Detail Color Intensity": 0.0,
+                  "Detail Color Shift": 0.0,
+                  "Detail Normal Intensity": 0.0,
+                  "Detail Tiling": 1.834811,
+                  "AO Dust Multiply": 1.0,
+                  "Dust Extra World Breakup Strength": 0.5,
+                  "Weathering Tiling": 5.0,
+                  "EmissiveIntensity": 4.0,
+                  "PulsateAmount": 0.5,
+                  "PulsateSpeed": 1.0,
+                  "Swatch Color (1)": 5.0,
+                  "Swatch Color (0.66)": 5.0,
+                  "Swatch Color (0.33)": 4.0,
+                  "RefractionDepthBias": 0.0,
+                  "Use Default Texture Setup": 0.0,
+                  "Use Mask Texture": 1.0,
+                  "Use Slice Mask": 1.0,
+                  "Use Detail": 0.0,
+                  "Turn on basic tiling": 1.0,
+                  "Use Dust": 0.0,
+                  "Use Emissive": 1.0,
+                  "Pulsate": 1.0,
+                  "Use Slice Mask as metalness": 0.0,
+                  "Use Tinting": 0.0,
+                  "Use Packed Tint Mask": 1.0,
+                  "Use Swatch Colors": 1.0
+                },
+                "vectorParameters": {
+                  "EmissiveColor": {
+                    "r": 0.713542,
+                    "g": 0.037588,
+                    "b": 0.014984,
+                    "a": 1.0,
+                    "hex": "DC3620"
+                  }
+                },
+                "autoMappedParameters": [
+                  {
+                    "parameter": {
+                      "name": "Normal",
+                      "uVIndex": 0,
+                      "textureChannel": 4,
+                      "layerIndex": 0
+                    },
+                    "valueType": "Texture",
+                    "value": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTable_MatriarchPart_01_A_NEM"
+                  }
+                ],
+                "parentStack": [
+                  "/Game/Pioneer/MaterialLibrary/M_Presets/M_PropPreset_CR+NOM.M_PropPreset_CR+NOM"
+                ]
+              }
+            ],
+            "instanceTransforms": null,
+            "overrideVertexColors": null,
+            "staticMeshForViewer": null,
+            "guid": "48540eab-c101-44f8-b00b-b358d735f4e4",
+            "name": "StaticMeshComponent0",
+            "transform": {
+              "quaternion": {
+                "x": 0.05522619,
+                "y": 0.0041620694,
+                "z": 0.9241192,
+                "w": -0.3780694,
+                "isNormalized": true,
+                "size": 1.0,
+                "sizeSquared": 1.0
+              },
+              "translation": {
+                "x": -8.641634,
+                "y": -3.827704,
+                "z": 7.762513
+              },
+              "scale3D": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "rotation": {
+                "pitch": 6.0397415,
+                "yaw": -135.39618,
+                "roll": 1.9631264
+              }
+            },
+            "children": [],
+            "type": "MeshComponent"
+          }
+        ]
+      },
+      {
+        "name": "StaticMeshActor_UAID_ECE7A7073B7968AC02_1990265440",
+        "components": [
+          {
+            "meshPath": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/SM_DisplayTable_RocketeerPart_01_A",
+            "materials": [
+              {
+                "type": "ProcessedMaterial",
+                "exportName": "MI_DisplayTable_RocketeerPart_01",
+                "name": "MI_DisplayTable_RocketeerPart_01",
+                "matPath": "/Game/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/MI_DisplayTable_RocketeerPart_01",
+                "textureParameters": {
+                  "CR": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTable_RocketeerPart_01_A_CR",
+                  "Normal": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTable_RocketeerPart_01_A_NEM"
+                },
+                "scalarParameters": {
+                  "RefractionDepthBias": 0.0,
+                  "Use Slice Mask": 0.0,
+                  "Use Detail": 0.0,
+                  "Use Dust": 0.0
+                },
+                "vectorParameters": {},
+                "autoMappedParameters": [
+                  {
+                    "parameter": {
+                      "name": "Normal",
+                      "uVIndex": 0,
+                      "textureChannel": 4,
+                      "layerIndex": 0
+                    },
+                    "valueType": "Texture",
+                    "value": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTable_RocketeerPart_01_A_NEM"
+                  }
+                ],
+                "parentStack": [
+                  "/Game/Pioneer/MaterialLibrary/M_Presets/M_PropPreset_CR+NOM.M_PropPreset_CR+NOM"
+                ]
+              }
+            ],
+            "instanceTransforms": null,
+            "overrideVertexColors": null,
+            "staticMeshForViewer": null,
+            "guid": "6948b2c6-385f-48b1-bd6c-ed00e9bf9526",
+            "name": "StaticMeshComponent0",
+            "transform": {
+              "quaternion": {
+                "x": 0.061382823,
+                "y": 0.62814045,
+                "z": -0.11702294,
+                "w": 0.7667968,
+                "isNormalized": true,
+                "size": 1.0,
+                "sizeSquared": 1.0
+              },
+              "translation": {
+                "x": 2.1742222,
+                "y": -117.66271,
+                "z": 7.335634
+              },
+              "scale3D": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "rotation": {
+                "pitch": -77.87143,
+                "yaw": -29.152925,
+                "roll": 14.576347
+              }
+            },
+            "children": [],
+            "type": "MeshComponent"
+          }
+        ]
+      },
+      {
+        "name": "StaticMeshActor_UAID_ECE7A7073B7968AC02_1990268444",
+        "components": [
+          {
+            "meshPath": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/SM_DisplayTable_01_A",
+            "materials": [
+              {
+                "type": "ProcessedMaterial",
+                "exportName": "MI_DisplayTable_01",
+                "name": "MI_DisplayTable_01",
+                "matPath": "/Game/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/MI_DisplayTable_01",
+                "textureParameters": {
+                  "CR": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTable_01_A_CR",
+                  "Normal": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTable_01_A_NOX",
+                  "Packed Mask": "PioneerGame/Content/Pioneer/MaterialLibrary/Textures/Default/T_Default_01_M",
+                  "Mask": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTable_01_A_M"
+                },
+                "scalarParameters": {
+                  "AO Intensity": 0.3,
+                  "Detail Color Intensity": 1.0,
+                  "Detail Color Shift": 0.25,
+                  "Detail Normal Intensity": 1.0,
+                  "Detail Tiling": 1.0,
+                  "AO Dust Multiply": 1.0,
+                  "Dust Extra World Breakup Strength": 0.5,
+                  "Weathering Tiling": 5.0,
+                  "Swatch Color (1)": 5.0,
+                  "Swatch Color (0.66)": 5.0,
+                  "Swatch Color (0.33)": 4.0,
+                  "RefractionDepthBias": 0.0,
+                  "Use Masks": 1.0,
+                  "Use single Mask Texture": 1.0,
+                  "Use Slice Mask": 0.0,
+                  "Use Detail": 0.0,
+                  "Turn on basic tiling": 1.0,
+                  "Use Dust": 0.0,
+                  "Use Tinting": 0.0,
+                  "Use Packed Tint Mask": 1.0,
+                  "Use Swatch Colors": 1.0
+                },
+                "vectorParameters": {
+                  "RT Base Color": {
+                    "r": 0.107023,
+                    "g": 0.003035,
+                    "b": 0.000911,
+                    "a": 1.0,
+                    "hex": "5C0A03"
+                  }
+                },
+                "autoMappedParameters": [
+                  {
+                    "parameter": {
+                      "name": "Normal",
+                      "uVIndex": 0,
+                      "textureChannel": 4,
+                      "layerIndex": 0
+                    },
+                    "valueType": "Texture",
+                    "value": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTable_01_A_NOX"
+                  }
+                ],
+                "parentStack": [
+                  "/Game/Pioneer/MaterialLibrary/M_Presets/M_PropPreset_CR+NOX+XEM.M_PropPreset_CR+NOX+XEM"
+                ]
+              },
+              {
+                "type": "ProcessedMaterial",
+                "exportName": "MI_DisplayTableGlass_01_A",
+                "name": "MI_DisplayTableGlass_01_A",
+                "matPath": "/Game/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/MI_DisplayTableGlass_01_A",
+                "textureParameters": {},
+                "scalarParameters": {
+                  "CubemapStrength": 0.25,
+                  "DirtStrengthInside": 0.3808,
+                  "DirtStrengtOutside": 0.4,
+                  "EdgeContrast": 0.448,
+                  "EdgeFalloff": 0.031744,
+                  "EdgePower": 6.6964,
+                  "AoInside": 0.025,
+                  "AoOutside": 0.1,
+                  "FresnelInside": 5.0,
+                  "Metallic": 0.75,
+                  "OpacityInside": 0.6,
+                  "OpacityOutside": 0.25,
+                  "Roughness": 0.1,
+                  "Specular": 1.0,
+                  "RefractionDepthBias": 0.0
+                },
+                "vectorParameters": {
+                  "CustomWorldNormal": {
+                    "r": 0.0,
+                    "g": 0.0,
+                    "b": 0.0,
+                    "a": 1.0,
+                    "hex": "000000"
+                  },
+                  "DirtTint": {
+                    "r": 0.369792,
+                    "g": 0.286859,
+                    "b": 0.206083,
+                    "a": 1.0,
+                    "hex": "A4927D"
+                  },
+                  "GlassTint": {
+                    "r": 0.395833,
+                    "g": 0.383768,
+                    "b": 0.371094,
+                    "a": 1.0,
+                    "hex": "A9A7A4"
+                  }
+                },
+                "autoMappedParameters": [],
+                "parentStack": [
+                  "/Game/Pioneer/MaterialLibrary/M_Presets/M_WindowPane_01.M_WindowPane_01"
+                ]
+              },
+              {
+                "type": "ProcessedMaterial",
+                "exportName": "MI_DisplayTableStickers_01",
+                "name": "MI_DisplayTableStickers_01",
+                "matPath": "/Game/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/MI_DisplayTableStickers_01",
+                "textureParameters": {
+                  "CR": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTableStickers_01_A_CR",
+                  "Normal": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTableStickers_01_A_NOX",
+                  "Packed Mask": "PioneerGame/Content/Pioneer/MaterialLibrary/Textures/Default/T_Default_01_M",
+                  "Mask": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTableStickers_01_A_A"
+                },
+                "scalarParameters": {
+                  "AO Intensity": 0.3,
+                  "Detail Color Intensity": 1.0,
+                  "Detail Color Shift": 0.25,
+                  "Detail Normal Intensity": 1.0,
+                  "Detail Tiling": 1.0,
+                  "AO Dust Multiply": 1.0,
+                  "Dust Extra World Breakup Strength": 0.5,
+                  "Weathering Tiling": 5.0,
+                  "Swatch Color (1)": 5.0,
+                  "Swatch Color (0.66)": 5.0,
+                  "Swatch Color (0.33)": 4.0,
+                  "RefractionDepthBias": 0.0,
+                  "Use Masks": 1.0,
+                  "Use single Mask Texture": 1.0,
+                  "DitherOpacityMask": 1.0,
+                  "Use Slice Mask": 0.0,
+                  "Use Detail": 0.0,
+                  "Turn on basic tiling": 1.0,
+                  "Use Dust": 0.0,
+                  "Use Tinting": 0.0,
+                  "Use Packed Tint Mask": 1.0,
+                  "Use Swatch Colors": 1.0
+                },
+                "vectorParameters": {},
+                "autoMappedParameters": [
+                  {
+                    "parameter": {
+                      "name": "Normal",
+                      "uVIndex": 0,
+                      "textureChannel": 4,
+                      "layerIndex": 0
+                    },
+                    "valueType": "Texture",
+                    "value": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTableStickers_01_A_NOX"
+                  }
+                ],
+                "parentStack": [
+                  "/Game/Pioneer/MaterialLibrary/M_Presets/M_PropPreset_CR+NOX+XEM.M_PropPreset_CR+NOX+XEM"
+                ]
+              }
+            ],
+            "instanceTransforms": null,
+            "overrideVertexColors": null,
+            "staticMeshForViewer": null,
+            "guid": "a16a77eb-57d8-4513-bd5a-629aedb4b4ff",
+            "name": "StaticMeshComponent0",
+            "transform": {
+              "quaternion": {
+                "x": -0.0,
+                "y": 0.0,
+                "z": -0.99913025,
+                "w": 0.041697763,
+                "isNormalized": true,
+                "size": 1.0,
+                "sizeSquared": 1.0
+              },
+              "translation": {
+                "x": -5.3223815,
+                "y": -56.679802,
+                "z": -90.55241
+              },
+              "scale3D": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "rotation": {
+                "pitch": 0.0,
+                "yaw": -175.2204,
+                "roll": 0.0
+              }
+            },
+            "children": [],
+            "type": "MeshComponent"
+          }
+        ]
+      },
+      {
+        "name": "StaticMeshActor_UAID_ECE7A7073B7968AC02_1990266441",
+        "components": [
+          {
+            "meshPath": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/SM_DisplayTable_WaspPart_01_A",
+            "materials": [
+              {
+                "type": "ProcessedMaterial",
+                "exportName": "MI_WaspPart_01",
+                "name": "MI_WaspPart_01",
+                "matPath": "/Game/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/MI_WaspPart_01",
+                "textureParameters": {
+                  "CR": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTable_WaspPart_01_A_CR",
+                  "Normal": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTable_WaspPart_01_A_NOX",
+                  "Packed Mask": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTable_WaspPart_01_A_XEM"
+                },
+                "scalarParameters": {
+                  "RefractionDepthBias": 0.0,
+                  "Use Masks": 1.0,
+                  "Use Slice Mask": 1.0,
+                  "Use Detail": 0.0,
+                  "Use Dust": 0.0
+                },
+                "vectorParameters": {},
+                "autoMappedParameters": [
+                  {
+                    "parameter": {
+                      "name": "Normal",
+                      "uVIndex": 0,
+                      "textureChannel": 4,
+                      "layerIndex": 0
+                    },
+                    "valueType": "Texture",
+                    "value": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTable_WaspPart_01_A_NOX"
+                  }
+                ],
+                "parentStack": [
+                  "/Game/Pioneer/MaterialLibrary/M_Presets/M_PropPreset_CR+NOX+XEM.M_PropPreset_CR+NOX+XEM"
+                ]
+              }
+            ],
+            "instanceTransforms": null,
+            "overrideVertexColors": null,
+            "staticMeshForViewer": null,
+            "guid": "23b29631-9eca-49a2-88f6-81aba562919a",
+            "name": "StaticMeshComponent0",
+            "transform": {
+              "quaternion": {
+                "x": -0.0,
+                "y": 0.0,
+                "z": -0.997389,
+                "w": 0.0722159,
+                "isNormalized": true,
+                "size": 0.99999994,
+                "sizeSquared": 0.99999994
+              },
+              "translation": {
+                "x": 5.9881473,
+                "y": -45.825825,
+                "z": -4.5686994
+              },
+              "scale3D": {
+                "x": 1.0,
+                "y": 1.0,
+                "z": 1.0
+              },
+              "rotation": {
+                "pitch": 0.0,
+                "yaw": -171.71745,
+                "roll": 0.0
+              }
+            },
+            "children": [],
+            "type": "MeshComponent"
+          }
+        ]
+      },
+      {
+        "name": "StaticMeshActor_UAID_ECE7A7073B7968AC02_1990268445",
+        "components": [
+          {
+            "meshPath": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/SM_DisplayTable_BastionPart_01_A",
+            "materials": [
+              {
+                "type": "ProcessedMaterial",
+                "exportName": "MI_DisplayTable_BastionPart_01_A",
+                "name": "MI_DisplayTable_BastionPart_01_A",
+                "matPath": "/Game/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/MI_DisplayTable_BastionPart_01_A",
+                "textureParameters": {
+                  "CR": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTable_BastionPart_01_A_CR",
+                  "Normal": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTable_BastionPart_01_A_NOX",
+                  "Packed Mask": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTable_BastionPart_01_A_XAM"
+                },
+                "scalarParameters": {
+                  "RefractionDepthBias": 0.0,
+                  "Use Masks": 1.0,
+                  "Use Slice Mask": 1.0,
+                  "Use Detail": 0.0,
+                  "Use Dust": 0.0
+                },
+                "vectorParameters": {},
+                "autoMappedParameters": [
+                  {
+                    "parameter": {
+                      "name": "Normal",
+                      "uVIndex": 0,
+                      "textureChannel": 4,
+                      "layerIndex": 0
+                    },
+                    "valueType": "Texture",
+                    "value": "PioneerGame/Content/Pioneer/Environment/Props/FrontEnd/DisplayTable_01/T_DisplayTable_BastionPart_01_A_NOX"
+                  }
+                ],
+                "parentStack": [
+                  "/Game/Pioneer/MaterialLibrary/M_Presets/M_PropPreset_CR+NOX+XEM.M_PropPreset_CR+NOX+XEM"
+                ]
+              }
+            ],
+            "instanceTransforms": null,
+            "overrideVertexColors": null,
+            "staticMeshForViewer": null,
+            "guid": "18429ae0-13ea-47b1-86d3-f6034f91e287",
+            "name": "StaticMeshComponent0",
+            "transform": {
+              "quaternion": {
+                "x": -0.7662851,
+                "y": -0.47809875,
+                "z": 0.14988333,
+                "w": 0.4021986,
+                "isNormalized": true,
+                "size": 1.0,
+                "sizeSquared": 1.0
+              },
+              "translation": {
+                "x": -19.652225,
+                "y": -84.40153,
+                "z": -0.1353085
+              },
+              "scale3D": {
+                "x": 0.82519114,
+                "y": 0.82519114,
+                "z": 0.82519114
+              },
+              "rotation": {
+                "pitch": 8.909521,
+                "yaw": 59.735382,
+                "roll": 129.73633
+              }
+            },
+            "children": [],
+            "type": "MeshComponent"
+          }
+        ]
+      }
+    ]
+  }
+}
