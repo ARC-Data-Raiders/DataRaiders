@@ -16,5 +16,5 @@ https://imgur.com/a/pngSp3G
 
 
 ### Support
-If you have trouble finding something you can ask in our discord server ![Blend Raiders Discord](https://discord.com/invite/2V6zD9C6y9)
+If you have trouble finding something you can ask in our discord server [Blend Raiders Discord](https://discord.com/invite/2V6zD9C6y9)
 
